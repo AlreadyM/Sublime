@@ -1,0 +1,9 @@
+*
+!.gitignore
+!Default (Windows).sublime-keymap
+#按键
+!Package Control.sublime-settings
+#插件列表
+!Preferences.sublime-settings
+#个性化设置
+#现仅跟踪了以上三个文件
