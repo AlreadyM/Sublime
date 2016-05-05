@@ -1,17 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Colorcoder/Monokai (Colorcoded).tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Alignment",
-		"AutoFileName",
-		"Autoprefixer",
 		"BracketHighlighter",
-		"Colorcoder",
-		"DocBlockr",
 		"Emmet",
 		"Git",
-		"Sass",
 		"SASS Build",
 		"SASS Snippets",
 		"SideBarEnhancements",
@@ -20,5 +14,6 @@
 		"SyncedSideBar",
 		"TrailingSpaces",
 		"Vintage"
-	]
+	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme"
 }
