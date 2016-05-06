@@ -1,0 +1,24 @@
+壹
+	git init 初始化仓库
+	git add all |git add .
+	git commit |git commit -m "commit msg"
+	git remote
+		remote -v	远端仓库
+		remote add origin url 添加
+		remote remove origin 移除
+	git push	推送
+		push --upstream origin master 首次添加远端仓库推送关联
+	git pull
+
+贰
+
+	git clone url
+	git add all	|git add .
+	git commit |git commit -m "commit msg"
+	git push
+	git pull
+
+版本回退
+	git log |git reflog
+	git reset --hard {	HEAD | HEAD^ | HEAD@{Num}	}
+	

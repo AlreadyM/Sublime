@@ -1,10 +1,7 @@
 *
-!.gitignore
+#just keeping three files
 !Default (Windows).sublime-keymap
-#按键
 !Package Control.sublime-settings
-#插件列表
 !Preferences.sublime-settings
-#个性化设置
+!How to use git.txt
 !README.md
-#现仅跟踪了以上三个文件
