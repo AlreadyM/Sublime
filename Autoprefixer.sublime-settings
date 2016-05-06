@@ -1,0 +1,7 @@
+{
+    "browsers":["last 9 version",
+     "> 5%",
+     "Firefox < 20",
+     "ie 8", "ie 7"
+     ]
+}

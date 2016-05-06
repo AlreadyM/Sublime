@@ -1,19 +1,9 @@
 {
-	"color_scheme": "Packages/Colorcoder/Monokai (Colorcoded).tmTheme",
+	"color_scheme": "Packages/Colorcoder/Monokai (SL) (Colorcoded).tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"BracketHighlighter",
-		"Emmet",
-		"Git",
-		"SASS Build",
-		"SASS Snippets",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SyncedSideBar",
-		"TrailingSpaces",
 		"Vintage"
 	],
-	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme"
+	"original_color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
 }

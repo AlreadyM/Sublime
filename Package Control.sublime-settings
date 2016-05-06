@@ -2,16 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"BracketHighlighter",
-		"Emmet",
-		"Git",
-		"SASS Build",
-		"SASS Snippets",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SyncedSideBar",
-		"TrailingSpaces"
 	],
 	"installed_packages":
 	[
