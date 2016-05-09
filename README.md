@@ -1,3 +1,11 @@
+同步本仓库使用Package Control 进行插件自动安装前装备工作
+
+	nodeJs http://nodejs.cn/ 或者 https://nodejs.org/en/
+	ruby http://rubyinstaller.org/downloads/
+	compass 使用控制台指令 gem install compass
+	TortoiseSVN https://tortoisesvn.net/
+	git https://git-scm.com/download/
+
 插件追踪 {Package Control.sublime-settings}
 热键追踪 {Default (Windows).sublime-keymap}
 
