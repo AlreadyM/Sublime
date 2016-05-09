@@ -1,6 +1,6 @@
 同步本仓库使用Package Control 进行插件自动安装前装备工作
 
-	nodeJs http://nodejs.cn/ 或者 https://nodejs.org/en/
+	nodeJs http://nodejs.cn/ 或者 https://nodejs.org/en/(推荐使用英文版 非汉化更稳定)
 	ruby http://rubyinstaller.org/downloads/
 	compass 使用控制台指令 gem install compass
 	TortoiseSVN https://tortoisesvn.net/
