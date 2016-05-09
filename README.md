@@ -1,8 +1,44 @@
-插件追踪
-热键追踪
-个性化追踪
+插件追踪 {Package Control.sublime-settings}
+热键追踪 {Default (Windows).sublime-keymap}
 
-git
+个性化追踪 {Preferences.sublime-settings}
+Autoprefixer {Autoprefixer.sublime-settings}
+Snippets
+
+	{
+		文件名规则:CH-快捷键,
+		htmlf:新建html5文档模板,
+	}
+
+Git 版本管理工具
+
+	前往 https://git-scm.com/download/ 下载安装程序，安装完成后即可开始使用
+
+	壹
+		git init 初始化仓库
+		git add all |git add .
+		git commit |git commit -m "commit msg"
+		git remote
+			remote -v	远端仓库
+			remote add origin url 添加
+			remote remove origin 移除
+		git push	推送
+			push --upstream origin master 首次添加远端仓库推送关联
+		git pull
+
+	贰
+
+		git clone url
+		git add all	|git add .
+		git commit |git commit -m "commit msg"
+		git push
+		git pull
+
+	版本回退
+		git log |git reflog
+		git reset --hard {	HEAD | HEAD^ | HEAD@{Num}	}
+
+Sublimegit 插件使用
 
 	欲正常使用需要使用ssh协议进行验证身份推送
 	添加ssh
@@ -28,3 +64,17 @@ gitgutter
 
 	需配置git 环境变量 只需到外层父目录即可
 	需要电脑性能，有卡顿 无良好体验
+
+
+Sass css预处理
+
+	简介 使用Sass需要ruby环境，前往 http://rubyinstaller.org/downloads/ 下载最新安装包，
+		安装后进入系统控制台程序(cmd/shell)
+		安装compass	{gem install compass/sudo gem install compass}
+		更换源地址(http://gems.ruby-china.org/) 更新ruby：gem update --system
+		期间各种安装错误，可尝试使用代理[参考 http://gems.ruby-china.org/]
+		总站地址 ruby中国 http://ruby-china.org/
+
+	安装sass http://www.sasschina.com/install/
+	安装sublime插件[sass,sass-build,sass-snippets]
+	使用指导 参考 http://www.sasschina.com/guide/
