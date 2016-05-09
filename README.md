@@ -60,6 +60,11 @@ Sublimegit 插件使用
 		如果看到Hi后面是你的用户名，就说明成功了。
 	至此可集成在Sublime 中完成提交推送
 
+TortoiseSVN
+
+	安装本插件需要先安装window版本SVN小乌龟 (TortoiseSVN)
+	完成后安装本插件 只需注意小乌龟的路径即可使用本插件正常调用小乌龟进行提交更新等操作
+
 gitgutter
 
 	需配置git 环境变量 只需到外层父目录即可
