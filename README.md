@@ -57,7 +57,7 @@ Sublimegit 插件使用
 	ssh-add ~/.ssh/id_rsa(ssh私钥名称)
 		添加公钥到github
 	测试ssh
-		ssh -T git@github.com
+		ssh -T git@github.com (询问时记得输入yes 不然准备死菜吧小子)
 		你将会看到：
 		
 		    The authenticity of host 'github.com (207.97.227.239)' can't be established.
