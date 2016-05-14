@@ -84,7 +84,9 @@ Sass css预处理
 	简介 使用Sass需要ruby环境，前往 http://rubyinstaller.org/downloads/ 下载最新安装包，
 		安装后进入系统控制台程序(cmd/shell)
 		安装compass	{gem install compass/sudo gem install compass}
-		更换源地址(http://gems.ruby-china.org/) 更新ruby：gem update --system
+		更换源地址(http://gems.ruby-china.org/) 
+		gem sources --add https://gems.ruby-china.org/ --remove https://rubygems.org/
+		更新ruby：gem update --system
 		期间各种安装错误，可尝试使用代理[参考 http://gems.ruby-china.org/]
 		总站地址 ruby中国 http://ruby-china.org/
 
