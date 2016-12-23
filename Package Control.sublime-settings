@@ -8,6 +8,7 @@
 		"Alignment",
 		"AutoFileName",
 		"Autoprefixer",
+		"Bootstrap 3 Autocomplete",
 		"BracketHighlighter",
 		"Colorcoder",
 		"DocBlockr",
@@ -24,6 +25,8 @@
 		"SublimeLinter",
 		"SyncedSideBar",
 		"TortoiseSVN",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
