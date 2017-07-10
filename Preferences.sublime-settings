@@ -1,9 +1,10 @@
 {
-	"color_scheme": "Packages/Colorcoder/Espresso Libre (Colorcoded) (SL) (Colorcoded).tmTheme",
+	"color_scheme": "Packages/Colorcoder/Monokai (SL) (Colorcoded).tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"TortoiseSVN",
 		"Vintage"
 	],
-	"original_color_scheme": "Packages/User/SublimeLinter/Espresso Libre (Colorcoded) (SL).tmTheme"
+	"original_color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
 }
