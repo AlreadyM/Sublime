@@ -46,7 +46,7 @@ Git 版本管理工具
 		做出更改后提交到自己 fork 到的仓库，网页端操作提交 PR
 		如果需要更新他人仓库主库的代码，添加他人主库地址到 remote fetch 主库更新 合并主库更新到本地分支
 			操作如下
-				git add remote name url (name:name what you want;url:the repository url)
+				git remote add name url (name:name what you want;url:the repository url)
 				git fetch name
 				git merge name/master （合并 name 分支到 master 分支）
 		
